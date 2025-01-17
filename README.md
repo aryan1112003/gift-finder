@@ -15,7 +15,7 @@
 
 ## 🌟 Live Demo
 
-[Experience the Magic](your-live-demo-url-here)
+[Experience the Magic](https://heartfelt-moxie-4a2a78.netlify.app/)
 
 ## ✨ Features
 
@@ -124,7 +124,6 @@ We love contributions! Here's how you can help:
 
 **Aryan Acharya**
 
-- 🌐 Portfolio: [Aryan Acharya](https://github.com/aryan1112003)
 - 💼 LinkedIn: [Aryan Acharya](https://www.linkedin.com/in/aryan-acharya-9b939b316/)
 - 📫 GitHub: [@aryan1112003](https://github.com/aryan1112003)
 
